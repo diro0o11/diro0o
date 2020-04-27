@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>login form</title>
+	<link rel="stylesheet" type="text/css" href="C:/Users/hp/Desktop/loginform/style.css">
+</head>
+<body>
+	<div class="login-box"> 
+   <h1>Login</h1>
+   <div class="textbox">
+<input type="text" placeholder="username" name="" value="">   </div>
+<div class="text-box">
+	<input type="password" placeholder="password" name="" value="">
+</div>
+<a href="">
+<input class="btn" type="button" name="" value="sign in">
+</a>
+
+	</div>
+ 
+</body>
+</html>
